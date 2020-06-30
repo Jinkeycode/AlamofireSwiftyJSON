@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'AlamofireSwiftyJSON_Example' do
+  pod 'AlamofireSwiftyJSON', :path => '../'
+
+  target 'AlamofireSwiftyJSON_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
