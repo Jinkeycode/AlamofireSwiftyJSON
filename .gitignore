@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # OS X
 .DS_Store
 
@@ -35,6 +36,8 @@ Carthage/Build
 # `pod install` in .travis.yml
 #
 # Pods/
+=======
+>>>>>>> 9cb920a60728bff98ed6428564227876daea2a4f
 # Xcode
 #
 # gitignore contributors: remember to update Global/Xcode.gitignore, Objective-C.gitignore & Swift.gitignore
